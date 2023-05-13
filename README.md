@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LokiPogi 
-- 👀 I’m interested in Data Analytics/Science and Crypto
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Healthcare Analytics
+- 👀 I’m interested in Data Analytics/Engineering and Crypto
+- 🌱 I’m currently learning Data Engineering and Data Science
+- 💞️ I’m looking to collaborate on Healthcare Analytics/ Healthcare Data Engineers 
 - 📫 You can reach me through my email (mavericklouiscola@gmail.com)
 
 <!---
